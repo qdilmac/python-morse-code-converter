@@ -1,7 +1,7 @@
 # 20/09/2023 00.31
 # I wrote a simple program that converts morse-to-text and text-to-morse out of boredom
 # "morse_reversed_dict = {value: key for key, value in morse_code_dict.items()}" this line is new for me
-# didn't know how to swap key and values but this simple half an hour project tought me that
+# didn't know how to swap key and values but this simple half an hour project taught me that
 # Author: Mustafa Osman Dilmaç 
 
 
